@@ -1,0 +1,14 @@
+[
+	{
+		"question": "Hvordan løser jeg {insert problem here}",
+		"answer": "De aller fleste problemer kan løses med google, handler problemet om noe med programmering finner du som regel svar på stackoverflow. Hvis du ikke finner svar på nettet, kan du også spørre folk rundt deg."
+	},
+	{
+		"question": "Jeg fikk en error, hvordan vet jeg hvor den kommer fra?",
+		"answer": "Som regel når du får en error må du se etter navnet på en av filene dine, vis du finner det vil det som regel stå et linjenummer ved siden av som sier hvor erroren kommer fra. F. eks. 'index.js:32' (det er da altså en feil på linje 32)"
+	},
+	{
+		"question": "JS koden på nettsiden min virker ikke som den skal, hvordan kan jeg se hva som er galt?",
+		"answer": "For å se feilmeldinger i nettleseren kan du trykke F12 eller Ctrl + Shift + i for å åpne DevTools, deretter navigerer du til 'Console' hvor du kan se feilmeldingene fra koden din. "
+	}
+]
