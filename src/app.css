@@ -80,3 +80,8 @@ button:focus-visible {
 		background-color: #f9f9f9;
 	}
 }
+
+#tags > .selected {
+	background-color: #ccc;
+	color: #333;
+}
